@@ -1,0 +1,9 @@
+.idea
+node_modules
+subject_term_man-hi/target
+subject_term_man-hi/package-lock.json
+subject_term_man-server/public
+subject_term_man-server/package-lock.json
+package.json
+package-lock.json
+subject_term_man-server/target

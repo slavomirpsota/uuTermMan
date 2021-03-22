@@ -1,0 +1,118 @@
+{
+  "{asid}": {
+    "profileList": ["AsidAuthorities","AsidExecutives","AsidLicenseOwner","Public"],
+    "useCaseMap": {}
+  },
+  "*": {
+    "profileList": ["Authorities","Executives","AwidLicenseOwner","Public","AvidLicenceOwner","Executive","AwidlicenseOwner","Awidlicenseowner"],
+    "useCaseMap": {
+      "sys/uuAppWorkspace/init": {
+        "sysStateList": ["created"],
+        "profileList": ["AwidLicenseOwner"]
+      },
+      "defaultUve": {
+        "profileList": ["Public"]
+      },
+      "sys/uuAppWorkspace/initUve": {
+        "sysStateList": ["created"],
+        "profileList": ["Public","AwidLicenseOwner"]
+      },
+      "school/get": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "school/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subject/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subject/get": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subject/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subject/list": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subject/delete": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "assignment/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "assignment/get": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "assignment/list": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "assignment/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "assignment/delete": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "termManInstance/load": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "termManInstance/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "student/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "student/get": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "student/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "student/list": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executive","AwidLicenseOwner"]
+      },
+      "student/delete": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidlicenseOwner"]
+      },
+      "subjectTerm/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","Awidlicenseowner"]
+        },
+      "subjectTerm/delete": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subjectTerm/list": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subjectTerm/get": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      },
+      "subjectTerm/update": {
+        "sysStateList": ["active"],
+        "profileList": ["Authorities","Executives","AwidLicenseOwner"]
+      }
+    }
+  }
+}

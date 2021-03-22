@@ -1,0 +1,141 @@
+{
+  "{vendor}-{uuApp}-{uuSubApp}": {
+    "useCaseMap": {
+      "sys/uuAppWorkspace/init": {
+        "realization": "api/controllers/TermManController.init",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "defaultUve": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "sys/uuAppWorkspace/initUve": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "school/get": {
+        "realization": "api/controllers/SchoolController.get",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "school/update": {
+        "realization": "api/controllers/SchoolController.update",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subject/create": {
+        "realization": "api/controllers/SubjectController.create",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subject/get": {
+        "realization": "api/controllers/SubjectController.get",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "subject/update": {
+        "realization": "api/controllers/SubjectController.update",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subject/list": {
+        "realization": "api/controllers/SubjectController.list",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "subject/delete": {
+        "realization": "api/controllers/SubjectController.delete",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subjectTerm/get": {
+        "realization": "api/controllers/SubjectTermController.get",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "subjectTerm/update": {
+        "realization": "api/controllers/SubjectTermController.update",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "assignment/create": {
+        "realization": "api/controllers/AssignmentController.create",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "assignment/get": {
+        "realization": "api/controllers/AssignmentController.get",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "assignment/list": {
+        "realization": "api/controllers/AssignmentController.list",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "assignment/update": {
+        "realization": "api/controllers/AssignmentController.update",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "assignment/delete": {
+        "realization": "api/controllers/AssignmentController.delete",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "termManInstance/load": {
+        "realization": "api/controllers/TermManController.load",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "termManInstance/update": {
+        "realization": "api/controllers/TermManController.update",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "student/create": {
+        "realization": "api/controllers/StudentController.create",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "student/get": {
+        "realization": "api/controllers/StudentController.get",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "student/update": {
+        "realization": "api/controllers/StudentController.update",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "student/list": {
+        "realization": "api/controllers/StudentController.list",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "student/delete": {
+        "realization": "api/controllers/StudentController.delete",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subjectTerm/create": {
+        "realization": "api/controllers/SubjectTermController.create",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subjectTerm/delete": {
+        "realization": "api/controllers/SubjectTermController.delete",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "subjectTerm/list": {
+        "realization": "api/controllers/SubjectTermController.list",
+        "httpMethod": "GET",
+        "type": "CMD"
+      }
+    }
+  }
+}

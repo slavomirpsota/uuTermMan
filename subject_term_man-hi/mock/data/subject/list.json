@@ -1,0 +1,350 @@
+{
+  "itemList": [
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+ 
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d80d1ba9e6aad000d2cdf97"
+    },
+    {
+      "name": "Fyzika",
+      "credits": 10,
+      "supervisor": "Monika Biela",
+      "language": "EN",
+      "goal": "Vedieť základy fyziky",
+      "degree": "Bc.",
+      "semester": "winter",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92bd6323cc0000c3031c3"
+    },
+    {
+      "name": "Informatika",
+      "credits": 4,
+      "supervisor": "Erika Nemecká",
+      "language": "CZ",
+      "goal": "Vedieť prečítať správu poslanú v binárnom kóde.",
+      "degree": "Bc.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d10c496cdf4a0000c041019"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d4a95b40949c1000cef30ee"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d10c4e0cdf4a0000c04101b"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5e53fad30154b30025a117de"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92cb4323cc0000c3031c7"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92d1f323cc0000c3031d1"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d5267ae0949c1000cef3de8"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d52690a0949c1000cef3e46"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92bc4323cc0000c3031c1"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d5294dc0949c1000cef3f49"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d345cbd0949c1000cef1977"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92d7c323cc0000c3031d5"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+ 
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5d139100540d24000cac2a40"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5cd92d57323cc0000c3031d3"
+    },
+    {
+      "name": "Matematika",
+      "credits": 5,
+      "supervisor": "Monika Oblečená",
+      "language": "CZ",
+      "goal": "Vedieť počítať do 10",
+      "degree": "Ing.",
+      "semester": "summer",
+      "description": "Popis.",
+
+      "uuIdentity": "0-0",
+      "uuIdentityName": "Unknown",
+      "awid": "22222222222222222222222222222222",
+      "sys": {
+        "cts": "2021-03-01T17:50:56.035Z",
+        "mts": "2021-03-01T17:50:56.035Z",
+        "rev": 0
+      },
+      "id": "5e43e5eb0154b30025a1095b"
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 100,
+    "total": 17
+  },
+  "uuAppErrorMap": {}
+}

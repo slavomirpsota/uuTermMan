@@ -1,0 +1,20 @@
+{
+  "name": "Matematika 1",
+  "credits": 88,
+  "supervisor": "Monika Svastiková",
+  "language": "EN",
+  "goal": "Vedieť počítať do 44",
+  "degree": "Ing.",
+  "semester": "summer",
+  "description": "Popis.",
+  "uuIdentity": "0-0",
+  "uuIdentityName": "Unknown",
+  "awid": "22222222222222222222222222222222",
+  "sys": {
+    "cts": "2019-09-17T12:29:46.205Z",
+    "mts": "2020-04-05T22:45:04.806Z",
+    "rev": 43
+  },
+  "id": "111111111111111111112222",
+  "uuAppErrorMap": {}
+}
