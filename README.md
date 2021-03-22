@@ -1,6 +1,6 @@
 # uuTermMan
 
-I made this basic application to show some skill in Spring Boot, JPA...
+This application is my school term assignment using Node.JS and UU5 framework.
 
 ## Installation
 
